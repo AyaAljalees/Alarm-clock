@@ -1,5 +1,4 @@
-# Alarm-clock
-my first repository
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +12,7 @@ my first repository
 </head>
 
 <body>
-    <div id="clockContainer">
+     <div id="clockContainer">
         <h1>Current Time</h1>
         <div id="CurrentTime">
         </div>
